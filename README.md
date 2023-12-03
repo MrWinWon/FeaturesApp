@@ -6,6 +6,10 @@ Pet project for using of modern and popular libraries and technologies.
 
 Designed as a features-super app pet project.
 
+## Libs and technologies
+
+Di - [Yatagan](https://github.com/yandex/yatagan#yatagan)
+
 ## Authors
 
 [MrWinWon](https://github.com/MrWinWon)
